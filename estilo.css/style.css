@@ -110,4 +110,13 @@ body{
         padding: 10px;
         font-size: 10px;
        }
-        
+     footer {
+        height: 25px;
+        background-color: #000000;
+        color: rgb(255, 255, 255);
+        font-size: 1.4rem;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+       }
+
